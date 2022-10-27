@@ -1,1 +1,3 @@
-# jenkins_ecr
+# maven-project
+
+simple maven_project
